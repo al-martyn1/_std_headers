@@ -1,0 +1,11 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_placeholders__15_from_functional_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_placeholders__15_from_functional_INCLUDE_GUARD
+
+    #include <functional>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_placeholders__15_from_functional_INCLUDE_GUARD */
+

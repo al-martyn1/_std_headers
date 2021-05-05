@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_generic_category_from_system_error_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_generic_category_from_system_error_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/system_error/generic_category
+
+
+    // https://en.cppreference.com/w/cpp/header/system_error
+    #include <system_error>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_generic_category_from_system_error_INCLUDE_GUARD */
+

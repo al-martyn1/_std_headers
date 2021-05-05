@@ -1,0 +1,11 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_chrono_tai_clock_from_chrono_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_chrono_tai_clock_from_chrono_INCLUDE_GUARD
+
+    #include <chrono>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_chrono_tai_clock_from_chrono_INCLUDE_GUARD */
+

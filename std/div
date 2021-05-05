@@ -1,0 +1,19 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_div_from_cinttypes_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_div_from_cinttypes_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/cinttypes/div
+
+
+    // https://en.cppreference.com/w/cpp/header/cinttypes
+    #include <cinttypes>
+
+    // https://en.cppreference.com/w/cpp/header/cstdlib
+    #include <cstdlib>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_div_from_cinttypes_INCLUDE_GUARD */
+

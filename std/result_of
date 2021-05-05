@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_result_of_from_type_traits_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_result_of_from_type_traits_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/type_traits/result_of
+
+
+    // https://en.cppreference.com/w/cpp/header/type_traits
+    #include <type_traits>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_result_of_from_type_traits_INCLUDE_GUARD */
+

@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_array_from_array_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_array_from_array_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/array/array
+
+
+    // https://en.cppreference.com/w/cpp/header/array
+    #include <array>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_array_from_array_INCLUDE_GUARD */
+

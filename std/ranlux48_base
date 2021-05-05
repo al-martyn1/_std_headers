@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_ranlux48_base_from_random_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_ranlux48_base_from_random_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/random/ranlux48_base
+
+
+    // https://en.cppreference.com/w/cpp/header/random
+    #include <random>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_ranlux48_base_from_random_INCLUDE_GUARD */
+

@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_basic_iostream_from_istream_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_basic_iostream_from_istream_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/istream/basic_iostream
+
+
+    // https://en.cppreference.com/w/cpp/header/istream
+    #include <istream>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_basic_iostream_from_istream_INCLUDE_GUARD */
+

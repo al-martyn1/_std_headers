@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_atomic_store_from_atomic_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_atomic_store_from_atomic_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/atomic/atomic_store
+
+
+    // https://en.cppreference.com/w/cpp/header/atomic
+    #include <atomic>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_atomic_store_from_atomic_INCLUDE_GUARD */
+

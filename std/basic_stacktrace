@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_basic_stacktrace_from_stacktrace_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_basic_stacktrace_from_stacktrace_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/stacktrace/basic_stacktrace
+
+
+    // https://en.cppreference.com/w/cpp/header/stacktrace
+    #include <stacktrace>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_basic_stacktrace_from_stacktrace_INCLUDE_GUARD */
+

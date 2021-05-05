@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_hardware_constructive_interference_size_from_new_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_hardware_constructive_interference_size_from_new_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/new/hardware_constructive_interference_size
+
+
+    // https://en.cppreference.com/w/cpp/header/new
+    #include <new>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_hardware_constructive_interference_size_from_new_INCLUDE_GUARD */
+

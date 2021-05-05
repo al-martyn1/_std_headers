@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_ifstream_from_fstream_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_ifstream_from_fstream_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/fstream/ifstream
+
+
+    // https://en.cppreference.com/w/cpp/header/fstream
+    #include <fstream>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_ifstream_from_fstream_INCLUDE_GUARD */
+

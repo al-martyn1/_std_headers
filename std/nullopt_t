@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_nullopt_t_from_optional_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_nullopt_t_from_optional_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/optional/nullopt_t
+
+
+    // https://en.cppreference.com/w/cpp/header/optional
+    #include <optional>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_nullopt_t_from_optional_INCLUDE_GUARD */
+

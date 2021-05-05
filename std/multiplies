@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_multiplies_from_functional_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_multiplies_from_functional_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/functional/multiplies
+
+
+    // https://en.cppreference.com/w/cpp/header/functional
+    #include <functional>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_multiplies_from_functional_INCLUDE_GUARD */
+

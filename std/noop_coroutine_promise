@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_noop_coroutine_promise_from_coroutine_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_noop_coroutine_promise_from_coroutine_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/coroutine/noop_coroutine_promise
+
+
+    // https://en.cppreference.com/w/cpp/header/coroutine
+    #include <coroutine>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_noop_coroutine_promise_from_coroutine_INCLUDE_GUARD */
+

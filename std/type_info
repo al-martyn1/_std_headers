@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_type_info_from_typeinfo_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_type_info_from_typeinfo_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/typeinfo/type_info
+
+
+    // https://en.cppreference.com/w/cpp/header/typeinfo
+    #include <typeinfo>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_type_info_from_typeinfo_INCLUDE_GUARD */
+

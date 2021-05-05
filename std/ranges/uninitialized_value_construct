@@ -1,0 +1,11 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_ranges_uninitialized_value_construct_from_memory_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_ranges_uninitialized_value_construct_from_memory_INCLUDE_GUARD
+
+    #include <memory>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_ranges_uninitialized_value_construct_from_memory_INCLUDE_GUARD */
+

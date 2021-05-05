@@ -1,0 +1,11 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_numbers_ln10_from_numbers_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_numbers_ln10_from_numbers_INCLUDE_GUARD
+
+    #include <numbers>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_numbers_ln10_from_numbers_INCLUDE_GUARD */
+

@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_indirect_result_t_from_iterator_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_indirect_result_t_from_iterator_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/iterator/indirect_result_t
+
+
+    // https://en.cppreference.com/w/cpp/header/iterator
+    #include <iterator>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_indirect_result_t_from_iterator_INCLUDE_GUARD */
+

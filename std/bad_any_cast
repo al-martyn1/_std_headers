@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_bad_any_cast_from_any_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_bad_any_cast_from_any_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/any/bad_any_cast
+
+
+    // https://en.cppreference.com/w/cpp/header/any
+    #include <any>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_bad_any_cast_from_any_INCLUDE_GUARD */
+

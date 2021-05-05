@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_get_time_from_iomanip_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_get_time_from_iomanip_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/iomanip/get_time
+
+
+    // https://en.cppreference.com/w/cpp/header/iomanip
+    #include <iomanip>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_get_time_from_iomanip_INCLUDE_GUARD */
+

@@ -1,0 +1,19 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_mbstate_t_from_cuchar_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_mbstate_t_from_cuchar_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/cuchar/mbstate_t
+
+
+    // https://en.cppreference.com/w/cpp/header/cuchar
+    #include <cuchar>
+
+    // https://en.cppreference.com/w/cpp/header/cwchar
+    #include <cwchar>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_mbstate_t_from_cuchar_INCLUDE_GUARD */
+

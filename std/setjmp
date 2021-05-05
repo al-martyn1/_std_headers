@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_setjmp_from_csetjmp_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_setjmp_from_csetjmp_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/csetjmp/setjmp
+
+
+    // https://en.cppreference.com/w/cpp/header/csetjmp
+    #include <csetjmp>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_setjmp_from_csetjmp_INCLUDE_GUARD */
+

@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_compare_three_way_result_from_compare_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_compare_three_way_result_from_compare_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/compare/compare_three_way_result
+
+
+    // https://en.cppreference.com/w/cpp/header/compare
+    #include <compare>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_compare_three_way_result_from_compare_INCLUDE_GUARD */
+

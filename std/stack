@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_stack_from_stack_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_stack_from_stack_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/stack/stack
+
+
+    // https://en.cppreference.com/w/cpp/header/stack
+    #include <stack>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_stack_from_stack_INCLUDE_GUARD */
+

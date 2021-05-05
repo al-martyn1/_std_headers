@@ -1,0 +1,11 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_ranges_search_from_algorithm_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_ranges_search_from_algorithm_INCLUDE_GUARD
+
+    #include <algorithm>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_ranges_search_from_algorithm_INCLUDE_GUARD */
+

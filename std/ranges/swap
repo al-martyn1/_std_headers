@@ -1,0 +1,11 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_ranges_swap_from_concepts_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_ranges_swap_from_concepts_INCLUDE_GUARD
+
+    #include <concepts>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_ranges_swap_from_concepts_INCLUDE_GUARD */
+

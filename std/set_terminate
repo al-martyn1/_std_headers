@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_set_terminate_from_exception_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_set_terminate_from_exception_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/exception/set_terminate
+
+
+    // https://en.cppreference.com/w/cpp/header/exception
+    #include <exception>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_set_terminate_from_exception_INCLUDE_GUARD */
+

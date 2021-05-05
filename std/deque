@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_deque_from_deque_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_deque_from_deque_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/deque/deque
+
+
+    // https://en.cppreference.com/w/cpp/header/deque
+    #include <deque>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_deque_from_deque_INCLUDE_GUARD */
+

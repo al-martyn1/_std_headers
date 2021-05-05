@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_logic_error_from_stdexcept_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_logic_error_from_stdexcept_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/stdexcept/logic_error
+
+
+    // https://en.cppreference.com/w/cpp/header/stdexcept
+    #include <stdexcept>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_logic_error_from_stdexcept_INCLUDE_GUARD */
+

@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_scoped_allocator_adaptor_from_scoped_allocator_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_scoped_allocator_adaptor_from_scoped_allocator_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/scoped_allocator/scoped_allocator_adaptor
+
+
+    // https://en.cppreference.com/w/cpp/header/scoped_allocator
+    #include <scoped_allocator>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_scoped_allocator_adaptor_from_scoped_allocator_INCLUDE_GUARD */
+

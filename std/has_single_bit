@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_has_single_bit_from_bit_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_has_single_bit_from_bit_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/bit/has_single_bit
+
+
+    // https://en.cppreference.com/w/cpp/header/bit
+    #include <bit>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_has_single_bit_from_bit_INCLUDE_GUARD */
+

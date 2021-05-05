@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_unordered_map_from_unordered_map_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_unordered_map_from_unordered_map_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/unordered_map/unordered_map
+
+
+    // https://en.cppreference.com/w/cpp/header/unordered_map
+    #include <unordered_map>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_unordered_map_from_unordered_map_INCLUDE_GUARD */
+

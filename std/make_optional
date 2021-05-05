@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_make_optional_from_optional_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_make_optional_from_optional_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/optional/make_optional
+
+
+    // https://en.cppreference.com/w/cpp/header/optional
+    #include <optional>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_make_optional_from_optional_INCLUDE_GUARD */
+

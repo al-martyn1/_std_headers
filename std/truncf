@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_truncf_from_cmath_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_truncf_from_cmath_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/cmath/truncf
+
+
+    // https://en.cppreference.com/w/cpp/header/cmath
+    #include <cmath>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_truncf_from_cmath_INCLUDE_GUARD */
+

@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_forward_iterator_tag_from_iterator_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_forward_iterator_tag_from_iterator_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/iterator/forward_iterator_tag
+
+
+    // https://en.cppreference.com/w/cpp/header/iterator
+    #include <iterator>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_forward_iterator_tag_from_iterator_INCLUDE_GUARD */
+

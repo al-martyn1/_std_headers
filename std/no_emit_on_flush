@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_no_emit_on_flush_from_ostream_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_no_emit_on_flush_from_ostream_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/ostream/no_emit_on_flush
+
+
+    // https://en.cppreference.com/w/cpp/header/ostream
+    #include <ostream>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_no_emit_on_flush_from_ostream_INCLUDE_GUARD */
+

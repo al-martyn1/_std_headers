@@ -31,3 +31,4 @@
 *.out
 *.app
 make-headers.log
+git-add.bat

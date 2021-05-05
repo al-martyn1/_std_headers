@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_as_bytes_from_span_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_as_bytes_from_span_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/span/as_bytes
+
+
+    // https://en.cppreference.com/w/cpp/header/span
+    #include <span>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_as_bytes_from_span_INCLUDE_GUARD */
+

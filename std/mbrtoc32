@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_mbrtoc32_from_cuchar_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_mbrtoc32_from_cuchar_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/cuchar/mbrtoc32
+
+
+    // https://en.cppreference.com/w/cpp/header/cuchar
+    #include <cuchar>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_mbrtoc32_from_cuchar_INCLUDE_GUARD */
+

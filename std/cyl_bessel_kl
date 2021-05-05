@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_cyl_bessel_kl_from_cmath_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_cyl_bessel_kl_from_cmath_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/cmath/cyl_bessel_kl
+
+
+    // https://en.cppreference.com/w/cpp/header/cmath
+    #include <cmath>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_cyl_bessel_kl_from_cmath_INCLUDE_GUARD */
+

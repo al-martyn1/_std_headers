@@ -1,0 +1,11 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_ranges_istream_view_from_ranges_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_ranges_istream_view_from_ranges_INCLUDE_GUARD
+
+    #include <ranges>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_ranges_istream_view_from_ranges_INCLUDE_GUARD */
+

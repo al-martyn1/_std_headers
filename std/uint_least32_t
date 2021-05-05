@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_uint_least32_t_from_cstdint_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_uint_least32_t_from_cstdint_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/cstdint/uint_least32_t
+
+
+    // https://en.cppreference.com/w/cpp/header/cstdint
+    #include <cstdint>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_uint_least32_t_from_cstdint_INCLUDE_GUARD */
+

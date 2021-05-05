@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_weak_ptr_from_memory_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_weak_ptr_from_memory_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/memory/weak_ptr
+
+
+    // https://en.cppreference.com/w/cpp/header/memory
+    #include <memory>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_weak_ptr_from_memory_INCLUDE_GUARD */
+

@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_strtoimax_from_cinttypes_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_strtoimax_from_cinttypes_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/cinttypes/strtoimax
+
+
+    // https://en.cppreference.com/w/cpp/header/cinttypes
+    #include <cinttypes>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_strtoimax_from_cinttypes_INCLUDE_GUARD */
+

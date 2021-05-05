@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_unordered_set_from_unordered_set_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_unordered_set_from_unordered_set_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/unordered_set/unordered_set
+
+
+    // https://en.cppreference.com/w/cpp/header/unordered_set
+    #include <unordered_set>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_unordered_set_from_unordered_set_INCLUDE_GUARD */
+

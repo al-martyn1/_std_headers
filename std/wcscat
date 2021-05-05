@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_wcscat_from_cwchar_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_wcscat_from_cwchar_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/cwchar/wcscat
+
+
+    // https://en.cppreference.com/w/cpp/header/cwchar
+    #include <cwchar>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_wcscat_from_cwchar_INCLUDE_GUARD */
+

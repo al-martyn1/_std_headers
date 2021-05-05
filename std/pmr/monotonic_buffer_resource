@@ -1,0 +1,11 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_pmr_monotonic_buffer_resource_from_memory_resource_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_pmr_monotonic_buffer_resource_from_memory_resource_INCLUDE_GUARD
+
+    #include <memory_resource>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_pmr_monotonic_buffer_resource_from_memory_resource_INCLUDE_GUARD */
+

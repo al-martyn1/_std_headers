@@ -1,0 +1,16 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_slice_array_from_valarray_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_slice_array_from_valarray_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/valarray/slice_array
+
+
+    // https://en.cppreference.com/w/cpp/header/valarray
+    #include <valarray>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_slice_array_from_valarray_INCLUDE_GUARD */
+

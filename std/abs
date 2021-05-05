@@ -1,0 +1,22 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_abs_from_cinttypes_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_abs_from_cinttypes_INCLUDE_GUARD
+
+
+    // https://en.cppreference.com/w/cpp/cinttypes/abs
+
+
+    // https://en.cppreference.com/w/cpp/header/cinttypes
+    #include <cinttypes>
+
+    // https://en.cppreference.com/w/cpp/header/cmath
+    #include <cmath>
+
+    // https://en.cppreference.com/w/cpp/header/cstdlib
+    #include <cstdlib>
+
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_abs_from_cinttypes_INCLUDE_GUARD */
+
