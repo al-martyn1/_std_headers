@@ -1,0 +1,31 @@
+# <new> https://en.cppreference.com/w/cpp/header/new
+
+
+# Classes
+
+bad_alloc                                       new
+bad_array_new_length
+nothrow_t
+align_val_t
+destroying_delete_t
+  
+
+# Types
+
+new_handler
+
+
+#Constants
+
+nothrow
+hardware_destructive_interference_size
+hardware_constructive_interference_size
+  
+
+# Functions
+new
+delete
+get_new_handler
+set_new_handler
+launder
+

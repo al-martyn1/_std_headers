@@ -1,0 +1,30 @@
+# <csignal> https://en.cppreference.com/w/cpp/header/csignal
+
+
+# Typedefs
+
+sig_atomic_t                                      csignal
+
+
+# Functions
+
+signal
+raise
+
+
+# Macros
+
+#break_ifndef MACROS
+
+SIGABRT
+SIGFPE
+SIGILL
+SIGINT
+SIGSEGV
+SIGTERM
+
+SIG_DFL
+SIG_IGN
+
+SIG_ERR
+

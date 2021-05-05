@@ -1,0 +1,36 @@
+# <cwctype> https://en.cppreference.com/w/cpp/header/cwctype
+
+
+# Types
+
+wctrans_t                                        cwctype
+wctype_t
+wint_t
+
+
+# Functions
+
+# Character classification
+
+iswalnum
+iswalpha
+iswlower
+iswupper
+iswdigit
+iswxdigit
+iswcntrl
+iswgraph
+iswspace
+iswblank
+iswprint
+iswpunct
+iswctype
+wctype
+
+
+# Character manipulation
+
+towlower
+towupper
+towctrans
+wctrans

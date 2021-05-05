@@ -1,0 +1,20 @@
+# <system_error> https://en.cppreference.com/w/cpp/header/system_error
+
+
+# Classes
+
+error_category                                   system_error
+error_condition
+errc
+error_code
+system_error
+is_error_code_enum
+is_error_condition_enum
+  
+
+# Functions
+
+generic_category
+system_category
+make_error_code
+make_error_condition

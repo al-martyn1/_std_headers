@@ -1,0 +1,17 @@
+# <execution> https://en.cppreference.com/w/cpp/header/execution
+
+#namespace std::execution
+
+
+is_execution_policy                          execution
+sequenced_policy
+parallel_policy
+parallel_unsequenced_policy
+unsequenced_policy
+
+seq
+par
+par_unseq
+unseq
+
+

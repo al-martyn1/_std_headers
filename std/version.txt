@@ -1,0 +1,3 @@
+# version https://en.cppreference.com/w/cpp/header/version
+
+# https://en.cppreference.com/w/cpp/feature_test#Library_features

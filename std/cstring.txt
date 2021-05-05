@@ -1,0 +1,42 @@
+# <cstring> https://en.cppreference.com/w/cpp/header/cstring
+
+
+# Functions
+
+
+# String manipulation
+
+strcpy                                           cstring
+strncpy
+strcat
+strncat
+strxfrm
+
+ 
+# String examination
+
+strlen 
+strcmp
+strncmp
+strcoll
+strchr
+strrchr
+strspn
+strcspn
+strpbrk
+strstr
+strtok
+
+
+# Character array manipulation
+
+memchr
+memcmp
+memset
+memcpy
+memmove
+
+
+# Miscellaneous
+
+strerror

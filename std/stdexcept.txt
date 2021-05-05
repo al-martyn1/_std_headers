@@ -1,0 +1,14 @@
+# <stdexcept> https://en.cppreference.com/w/cpp/header/stdexcept
+
+
+# Classes
+
+logic_error                            stdexcept
+invalid_argument
+domain_error
+length_error
+out_of_range
+runtime_error
+range_error
+overflow_error
+underflow_error

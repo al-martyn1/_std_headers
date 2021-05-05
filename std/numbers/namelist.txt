@@ -1,0 +1,30 @@
+#namespace std::numbers
+
+e_v                    numbers
+log2e_v
+log10e_v
+pi_v
+inv_pi_v
+inv_sqrtpi_v
+ln2_v
+ln10_v
+sqrt2_v
+sqrt3_v
+inv_sqrt3_v
+egamma_v
+phi_v
+ 
+e
+log2e
+log10e
+pi
+inv_pi
+inv_sqrtpi
+ln2
+ln10
+sqrt2
+sqrt3
+inv_sqrt3
+egamma
+phi
+

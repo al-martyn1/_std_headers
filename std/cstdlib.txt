@@ -1,0 +1,80 @@
+# Types
+
+div_t                                              cstdlib
+ldiv_t
+lldiv_t
+size_t
+
+
+
+# Functions
+
+
+# Process control
+
+abort
+exit
+quick_exit
+atexit
+at_quick_exit
+system
+getenv
+
+
+# Memory management
+
+malloc
+aligned_alloc
+calloc
+realloc
+free
+
+
+# Numeric string conversion
+
+atof
+atoi
+atol
+atoll
+strtol
+strtoll
+strtoul
+strtoull
+strtof
+strtod
+strtold
+
+
+# Wide string manipulation
+
+mblen
+mbtowc
+wctomb
+mbstowcs
+wcstombs
+
+
+# Miscellaneous algorithms and math
+
+rand
+srand
+qsort
+bsearch
+abs
+labs
+llabs
+div
+ldiv
+lldiv
+
+
+
+# Macro constants
+
+#break_ifndef MACROS
+
+EXIT_SUCCESS
+EXIT_FAILURE
+MB_CUR_MAX
+NULL
+RAND_MAX

@@ -1,0 +1,15 @@
+# <cstddef> https://en.cppreference.com/w/cpp/header/cstddef
+
+# Macros
+
+NULL                                       cstddef
+offsetof
+
+
+# Types
+
+size_t
+ptrdiff_t
+nullptr_t
+max_align_t
+byte

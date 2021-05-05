@@ -1,0 +1,50 @@
+
+# <concepts> https://en.cppreference.com/w/cpp/header/concepts
+
+# Core language concepts
+
+same_as                                                        concepts
+derived_from
+convertible_to
+common_reference_with
+common_with  
+integral
+signed_integral
+unsigned_integral
+floating_point
+assignable_from
+swappable
+swappable_with
+destructible
+constructible_from
+default_initializable
+move_constructible
+copy_constructible
+
+  
+# Comparison concepts
+
+equality_comparable
+equality_comparable_with
+totally_ordered
+totally_ordered_with  
+
+
+# Object concepts
+
+movable
+copyable
+semiregular
+regular
+  
+  
+# Callable concepts
+
+invocable_regular_invocable
+predicate
+relation
+equivalence_relation
+strict_weak_order  
+
+
+# Customization point objects !!! UNDONE ranges

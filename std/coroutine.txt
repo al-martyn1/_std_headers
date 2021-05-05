@@ -1,0 +1,24 @@
+# <coroutine> https://en.cppreference.com/w/cpp/header/coroutine
+
+
+# Classes 
+
+coroutine_traits                                               coroutine
+coroutine_handle
+
+
+# No-op Coroutines
+
+noop_coroutine_promise
+noop_coroutine_handle
+  
+  
+# Trivial Awaitables
+
+suspend_never
+suspend_always
+  
+
+# No-op Coroutines
+
+noop_coroutine

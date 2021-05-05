@@ -1,0 +1,209 @@
+#namespace std::ranges
+
+swap                                             concepts
+
+equal_to                                         functional
+not_equal_to
+greater
+less
+greater_equal
+less_equal
+
+
+# Niebloids
+
+# Uninitialized storage
+
+uninitialized_copy                               memory
+uninitialized_copy_n
+uninitialized_fill
+uninitialized_fill_n
+uninitialized_move
+uninitialized_move_n
+uninitialized_default_construct
+uninitialized_default_construct_n
+uninitialized_value_construct
+uninitialized_value_construct_n
+construct_at
+destroy_at
+destroy
+destroy_n
+
+
+all_of                                           algorithm
+any_of
+none_of
+for_each
+for_each_n
+count
+count_if
+find
+find_if
+find_if_not
+find_end
+find_first_of
+adjacent_find
+search
+search_n
+copy
+copy_if
+copy_n
+copy_backward
+move
+move_backward
+fill
+fill_n
+transform
+generate
+remove
+remove_if
+remove_copy
+remove_copy_if
+replace
+replace_if
+replace_copy
+replace_copy_if
+swap_ranges
+reverse
+reverse_copy
+rotate
+rotate_copy
+shuffle
+sample
+unique
+unique_copy
+is_partitioned
+partition
+partition_copy
+stable_partition
+partition_point
+is_sorted
+is_sorted_until
+sort
+partial_sort
+partial_sort_copy
+stable_sort
+lower_bound
+upper_bound
+binary_search
+equal_range
+merge
+inplace_merge
+includes
+set_difference
+set_intersection
+set_symmetric_difference
+set_union
+is_heap
+is_heap_until
+make_heap
+push_heap
+pop_heap
+sort_heap
+max
+max_element
+min
+min_element
+minmax
+minmax_element
+clamp
+equal
+lexicographical_compare
+is_permutation
+next_permutation
+prev_permutation
+
+
+iter_move                                        iterator
+iter_swap
+advance
+distance
+next
+prev
+
+
+range                                            ranges
+borrowed_range
+sized_range
+view
+input_range
+output_range
+forward_range
+bidirectional_range
+random_access_range
+contiguous_range
+common_range
+viewable_range
+
+iterator_t
+sentinel_t
+range_difference_t
+range_size_t
+range_value_t
+range_reference_t
+range_rvalue_reference_t
+view_interface
+subrange
+dangling
+borrowed_iterator_t
+borrowed_subrange_t
+empty_view
+  
+empty_view
+single_view
+iota_view
+basic_istream_view
+istream_view
+ref_view
+filter_view
+transform_view
+take_view
+take_while_view
+drop_view
+drop_while_view
+join_view
+split_view
+common_view
+reverse_view
+elements_view
+keys_view
+values_view
+
+# views::empty
+# views::single
+# views::iota
+# views::all_t
+# views::all
+# views::filter
+# views::transform
+# views::take
+# views::take_while
+# views::drop
+# views::drop_while
+# views::join
+# views::split
+# views::counted
+# views::common
+# views::reverse
+# views::elements
+# views::keys
+# views::values
+
+begin
+end
+cbegin
+cend
+rbegin
+rend
+crbegin
+crend
+size
+ssize
+empty
+data
+cdata
+  
+subrange_kind
+  
+
+

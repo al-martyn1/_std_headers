@@ -1,0 +1,36 @@
+# <ctime> https://en.cppreference.com/w/cpp/header/ctime
+
+# Types
+clock_t                  ctime
+time_t
+tm
+timespec
+
+
+# Functions
+
+# Time manipulation
+
+clock
+time
+difftime
+timespec_get
+
+# Format conversions
+
+ctime
+asctime
+strftime
+wcsftime
+gmtime
+localtime
+mktime
+
+
+#break_ifndef MACROS
+ 
+
+# Macro Constants
+
+CLOCKS_PER_SEC
+

@@ -1,0 +1,17 @@
+# <cuchar> https://en.cppreference.com/w/cpp/header/cuchar
+
+
+# Types
+
+mbstate_t                              cuchar
+
+
+# Functions
+
+mbrtoc16
+c16rtomb
+mbrtoc32
+c32rtomb
+mbrtoc8
+c8rtomb
+

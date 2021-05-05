@@ -1,0 +1,21 @@
+# <cinttypes> https://en.cppreference.com/w/cpp/header/cinttypes
+
+
+# Types
+
+imaxdiv_t                      cinttypes
+  
+
+# Functions
+
+abs
+imaxabs
+div
+imaxdiv
+  
+strtoimax
+strtoumax
+  
+wcstoimax
+wcstoumax
+  

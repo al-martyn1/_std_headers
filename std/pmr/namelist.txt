@@ -1,0 +1,30 @@
+
+#namespace std::pmr
+
+# <memory_resource> https://en.cppreference.com/w/cpp/header/memory_resource
+
+
+# Classes
+
+polymorphic_allocator                                   memory_resource
+memory_resource
+pool_options
+synchronized_pool_resource
+unsynchronized_pool_resource
+monotonic_buffer_resource
+
+
+# Functions
+
+new_delete_resource
+null_memory_resource
+get_default_resource
+set_default_resource
+  
+
+basic_string                                            string
+string
+u8string
+u16string
+u32string
+wstring

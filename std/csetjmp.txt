@@ -1,0 +1,15 @@
+# <csetjmp> https://en.cppreference.com/w/cpp/header/csetjmp
+
+# Types
+
+jmp_buf                    csetjmp
+
+
+# Macros
+
+setjmp
+
+
+# Functions
+
+longjmp

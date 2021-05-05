@@ -1,0 +1,18 @@
+# <tuple> https://en.cppreference.com/w/cpp/header/tuple
+
+# Classes
+
+tuple                       tuple
+
+
+# Constants
+ignore
+ 
+
+# Functions
+make_tuple
+tie
+forward_as_tuple
+tuple_cat
+apply
+make_from_tuple

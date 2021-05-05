@@ -1,0 +1,104 @@
+# <memory> https://en.cppreference.com/w/cpp/header/memory
+
+
+# Classes
+
+
+# Pointer traits
+
+pointer_traits                               memory
+  
+
+# Garbage collector support
+
+pointer_safety
+  
+
+# Allocators
+
+allocator
+allocator_traits
+allocator_arg_t
+allocator_arg
+uses_allocator
+
+
+# Uninitialized storage
+
+# raw_storage_iterator
+# (deprecated in C++17)
+# (removed in C++20)
+ 
+
+# Smart pointers
+
+unique_ptr
+shared_ptr
+weak_ptr
+  
+
+# Helper classes
+
+owner_less
+enable_shared_from_this
+bad_weak_ptr
+default_delete
+
+
+
+# Functions
+
+# Miscellaneous
+
+to_address
+addressof
+align
+assume_aligned
+ 
+
+# Garbage collector support
+declare_reachable
+undeclare_reachable
+declare_no_pointers
+undeclare_no_pointers
+get_pointer_safety
+
+
+# Uninitialized storage
+
+uninitialized_copy
+uninitialized_copy_n
+uninitialized_fill
+uninitialized_fill_n
+uninitialized_move
+uninitialized_move_n
+uninitialized_default_construct
+uninitialized_default_construct_n
+uninitialized_value_construct
+uninitialized_value_construct_n
+construct_at
+destroy_at
+destroy
+destroy_n
+
+# get_temporary_buffer
+# return_temporary_buffer
+# (deprecated in C++17)
+# (removed in C++20)
+ 
+
+# Smart pointer non-member operations
+make_unique
+make_unique_for_overwrite
+make_shared
+make_shared_for_overwrite
+allocate_shared
+allocate_shared_for_overwrite
+static_pointer_cast
+dynamic_pointer_cast
+const_pointer_cast
+reinterpret_pointer_cast
+get_deleter  
+
+
+

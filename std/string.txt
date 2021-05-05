@@ -1,0 +1,37 @@
+# <string> https://en.cppreference.com/w/cpp/header/string
+
+
+# Classes
+
+char_traits                                      string
+basic_string
+
+u8string
+u16string
+u32string
+wstring
+
+
+# Numeric conversions
+
+stoi
+stol
+stoll
+  
+stoul
+stoull
+  
+stof
+stod
+stold
+  
+to_string
+  
+to_wstring
+  
+
+# Range accesss
+
+  
+  
+

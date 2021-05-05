@@ -1,0 +1,67 @@
+# <functional> https://en.cppreference.com/w/cpp/header/functional
+
+
+# Classes
+
+function                 functional
+mem_fn
+bad_function_call
+is_bind_expression
+is_placeholder
+reference_wrapper
+
+# Hashing
+
+hash
+
+
+# Functions
+
+bind_front
+bind
+ref
+cref
+invoke
+
+
+# Function Objects
+
+
+# Arithmetic operations
+plus
+minus
+multiplies
+divides
+modulus
+negate
+ 
+# Comparisons
+equal_to
+not_equal_to
+greater
+less
+greater_equal
+less_equal
+
+# Logical operations
+logical_and
+logical_or
+logical_not
+ 
+# Bitwise operations
+bit_and
+bit_or
+bit_xor
+bit_not
+  
+# Negators
+not_fn
+  
+# Searchers
+default_searcher
+boyer_moore_searcher
+boyer_moore_horspool_searcher  
+
+
+
+

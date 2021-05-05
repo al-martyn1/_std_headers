@@ -1,0 +1,93 @@
+# <cwchar> https://en.cppreference.com/w/cpp/header/cwchar
+
+
+# Types
+
+mbstate_t                                        cwchar
+ 
+
+
+# Functions
+
+# String manipulation
+
+wcscpy
+wcsncpy
+wcscat
+wcsncat
+
+
+# String examination
+
+wcsxfrm
+wcslen
+wcscmp
+wcsncmp
+wcscoll
+wcschr
+wcsrchr
+wcsspn
+wcscspn
+wcspbrk
+wcsstr
+wcstok
+
+
+# Wide character array manipulation
+
+wmemcpy
+wmemmove
+wmemcmp
+wmemchr
+wmemset
+ 
+
+# Multibyte/wide character conversion
+
+mbsinit
+btowc
+wctob
+mbrlen
+mbrtowc
+wcrtomb
+mbsrtowcs
+wcsrtombs
+
+ 
+# Input/Output
+
+fgetwc
+getwc
+fgetws
+fputwc
+putwc
+fputws
+getwchar
+putwchar
+ungetwc
+fwide
+wscanf
+fwscanf
+swscanf
+vwscanf
+vfwscanf
+vswscanf
+wprintf
+fwprintf
+swprintf
+vwprintf
+vfwprintf
+vswprintf
+
+
+# String conversions
+
+wcsftime
+wcstol
+wcstoll
+wcstoul
+wcstoull
+wcstof
+wcstod
+wcstold
+

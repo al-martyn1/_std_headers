@@ -1,0 +1,40 @@
+# <cfenv> https://en.cppreference.com/w/cpp/header/cfenv
+
+
+# Types
+
+fenv_t                                  cfenv
+fexcept_t
+
+
+# Functions
+
+feclearexcept
+fetestexcept
+feraiseexcept
+fegetexceptflag
+fesetexceptflag
+fegetround
+fesetround
+fegetenv
+fesetenv
+feholdexcept
+feupdateenv
+
+
+#break_ifndef MACROS
+
+
+# Macros
+
+FE_ALL_EXCEPT
+FE_DIVBYZERO
+FE_INEXACT
+FE_INVALID
+FE_OVERFLOW
+FE_UNDERFLOW
+FE_DOWNWARD
+FE_TONEAREST
+FE_TOWARDZERO
+FE_UPWARD
+FE_DFL_ENV

@@ -1,0 +1,25 @@
+# <variant> https://en.cppreference.com/w/cpp/header/variant
+
+
+# Classes
+
+variant                                   variant
+monostate
+bad_variant_access
+variant_size
+variant_size_v
+variant_alternative
+variant_alternative_t
+
+
+# Constants
+
+variant_npos
+
+
+# Functions
+
+visit
+holds_alternative
+get
+swap

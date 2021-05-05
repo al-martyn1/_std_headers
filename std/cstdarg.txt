@@ -1,0 +1,13 @@
+# <cstdarg> https://en.cppreference.com/w/cpp/header/cstdarg
+
+# Types
+
+va_list                              cstdarg
+
+
+# Macros
+
+va_start
+va_arg
+va_copy
+va_end

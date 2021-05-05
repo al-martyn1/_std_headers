@@ -1,0 +1,53 @@
+
+#namespace std::chrono
+
+
+# Classes
+
+duration                                 chrono
+time_point
+treat_as_floating_point
+clock_time_conversion
+duration_values
+time_zone
+nonexistent_local_time
+ambiguous_local_time
+
+# Clocks
+system_clock
+steady_clock
+high_resolution_clock
+utc_clock
+tai_clock
+gps_clock
+file_clock
+local_t
+  
+# Convenience Typedefs
+nanoseconds
+microseconds
+milliseconds
+seconds
+minutes
+hours
+days
+weeks
+months
+years
+
+
+# Functions
+
+# Duration
+
+duration_cast
+floor
+ceil
+round
+abs
+  
+
+# Time point
+
+time_point_cast
+clock_cast

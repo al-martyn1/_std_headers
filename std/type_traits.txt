@@ -1,0 +1,196 @@
+# <type_traits> https://en.cppreference.com/w/cpp/header/type_traits
+
+
+# Helper Classes
+
+integral_constant                     type_traits
+bool_constant
+true_type
+false_type
+
+
+# Primary type categories
+
+is_void
+is_null_pointer
+is_integral
+is_floating_point
+is_array
+is_enum
+is_union
+is_class
+is_function
+is_pointer
+is_lvalue_reference
+is_rvalue_reference
+is_member_object_pointer
+is_member_function_pointer
+
+
+# Composite type categories
+
+is_fundamental
+is_arithmetic
+is_scalar
+is_object
+is_compound
+is_reference
+is_member_pointer
+  
+
+# Type properties
+
+is_const
+is_volatile
+is_trivial
+is_trivially_copyable
+is_standard_layout
+is_pod
+is_literal_type
+has_unique_object_representations
+is_empty
+is_polymorphic
+is_abstract
+is_final
+is_aggregate
+is_signed
+is_unsigned
+is_bounded_array
+is_unbounded_array
+is_scoped_enum
+  
+
+# Supported operations
+
+is_constructible
+is_trivially_constructible
+is_nothrow_constructible
+
+is_default_constructible
+is_trivially_default_constructible
+is_nothrow_default_constructible
+
+is_copy_constructible
+is_trivially_copy_constructible
+is_nothrow_copy_constructible
+  
+is_move_constructible
+is_trivially_move_constructible
+is_nothrow_move_constructible
+
+is_assignable
+is_trivially_assignable
+is_nothrow_assignable
+  
+is_copy_assignable
+is_trivially_copy_assignable
+is_nothrow_copy_assignable
+  
+is_move_assignable
+is_trivially_move_assignable
+is_nothrow_move_assignable
+  
+is_destructible
+is_trivially_destructible
+is_nothrow_destructible
+  
+has_virtual_destructor
+  
+is_swappable_with
+is_swappable
+is_nothrow_swappable_with
+is_nothrow_swappable
+  
+
+# Property queries
+
+alignment_of
+rank
+extent
+
+
+# Type relationships
+
+is_same
+is_base_of
+is_convertible
+is_nothrow_convertible
+is_layout_compatible
+is_pointer_interconvertible_base_of
+is_invocable
+is_invocable_r
+is_nothrow_invocable
+is_nothrow_invocable_r
+
+
+# Const-volatility specifiers
+
+remove_cv
+remove_const
+remove_volatile
+  
+add_cv
+add_const
+add_volatile
+
+
+# References
+
+remove_reference
+add_lvalue_reference
+add_rvalue_reference
+  
+
+# Pointers
+
+remove_pointer
+add_pointer
+  
+
+# Sign modifiers
+
+make_signed
+make_unsigned
+
+
+# Arrays
+
+remove_extent
+remove_all_extents
+
+
+# Miscellaneous transformations
+
+aligned_storage
+aligned_union
+decay
+remove_cvref
+enable_if
+conditional
+common_type
+underlying_type
+result_of
+invoke_result
+void_t
+
+
+# Operations on traits
+
+conjunction
+disjunction
+negation
+
+
+# Functions
+
+
+# Member relationships
+
+is_pointer_interconvertible_with_class
+is_corresponding_member
+  
+
+# Constant evaluation context
+
+is_constant_evaluated  
+

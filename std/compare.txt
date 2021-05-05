@@ -1,0 +1,37 @@
+# <compare> https://en.cppreference.com/w/cpp/header/compare
+
+
+# Concepts
+
+three_way_comparable                                           compare
+three_way_comparable_with
+
+
+# Classes
+
+partial_ordering
+weak_ordering
+strong_ordering
+common_comparison_category
+compare_three_way_result
+compare_three_way
+
+
+# Customization point objects
+  
+strong_order
+weak_order
+partial_order
+compare_strong_order_fallback
+compare_weak_order_fallback
+compare_partial_order_fallback  
+  
+
+# Functions
+
+is_eq
+is_neq
+is_lt
+is_lteq
+is_gt
+is_gteq
