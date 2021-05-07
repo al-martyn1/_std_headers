@@ -1,3 +1,5 @@
+#!umba-make-headers
+
 # Headers list - https://en.cppreference.com/w/cpp/header
 
 #namespace std
