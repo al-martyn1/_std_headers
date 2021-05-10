@@ -1,0 +1,26 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_data_from_iterator_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_data_from_iterator_INCLUDE_GUARD
+
+    // https://doc.qt.io/qt-5/data.html
+
+    #include <iterator>
+
+    #if defined(_MSC_VER)
+
+        #if defined(DEBUG) || defined(_DEBUG)
+
+            #pragma comment(lib, "d")
+
+        #else
+
+            #pragma comment(lib, "")
+
+        #endif
+
+    #endif /* _MSC_VER */
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_data_from_iterator_INCLUDE_GUARD */
+

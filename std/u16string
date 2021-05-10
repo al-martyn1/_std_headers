@@ -1,0 +1,26 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_u16string_from_string_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_u16string_from_string_INCLUDE_GUARD
+
+    // https://doc.qt.io/qt-5/u16string.html
+
+    #include <string>
+
+    #if defined(_MSC_VER)
+
+        #if defined(DEBUG) || defined(_DEBUG)
+
+            #pragma comment(lib, "d")
+
+        #else
+
+            #pragma comment(lib, "")
+
+        #endif
+
+    #endif /* _MSC_VER */
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_u16string_from_string_INCLUDE_GUARD */
+

@@ -1,0 +1,26 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_wcerr_from_iostream_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_wcerr_from_iostream_INCLUDE_GUARD
+
+    // https://doc.qt.io/qt-5/wcerr.html
+
+    #include <iostream>
+
+    #if defined(_MSC_VER)
+
+        #if defined(DEBUG) || defined(_DEBUG)
+
+            #pragma comment(lib, "d")
+
+        #else
+
+            #pragma comment(lib, "")
+
+        #endif
+
+    #endif /* _MSC_VER */
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_wcerr_from_iostream_INCLUDE_GUARD */
+

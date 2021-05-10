@@ -1,0 +1,26 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_transform_inclusive_scan_from_numeric_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_transform_inclusive_scan_from_numeric_INCLUDE_GUARD
+
+    // https://doc.qt.io/qt-5/transform_inclusive_scan.html
+
+    #include <numeric>
+
+    #if defined(_MSC_VER)
+
+        #if defined(DEBUG) || defined(_DEBUG)
+
+            #pragma comment(lib, "d")
+
+        #else
+
+            #pragma comment(lib, "")
+
+        #endif
+
+    #endif /* _MSC_VER */
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_transform_inclusive_scan_from_numeric_INCLUDE_GUARD */
+

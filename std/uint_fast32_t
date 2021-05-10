@@ -1,0 +1,26 @@
+#pragma once
+
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_uint_fast32_t_from_cstdint_INCLUDE_GUARD)
+
+    #define UMBA_MAKE_HEADERS_GENERATED_std_uint_fast32_t_from_cstdint_INCLUDE_GUARD
+
+    // https://doc.qt.io/qt-5/uint_fast32_t.html
+
+    #include <cstdint>
+
+    #if defined(_MSC_VER)
+
+        #if defined(DEBUG) || defined(_DEBUG)
+
+            #pragma comment(lib, "d")
+
+        #else
+
+            #pragma comment(lib, "")
+
+        #endif
+
+    #endif /* _MSC_VER */
+
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_uint_fast32_t_from_cstdint_INCLUDE_GUARD */
+
