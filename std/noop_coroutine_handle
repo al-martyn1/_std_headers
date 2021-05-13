@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_noop_coroutine_handle_from_coroutine_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/noop_coroutine_handle.html
+    // https://en.cppreference.com/w/cpp/coroutine/noop_coroutine_handle
 
+    // https://en.cppreference.com/w/cpp/header/coroutine
     #include <coroutine>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_noop_coroutine_handle_from_coroutine_INCLUDE_GUARD */
 

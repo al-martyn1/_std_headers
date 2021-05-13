@@ -4,23 +4,8 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_chrono_minutes_from_chrono_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/minutes.html
-
     #include <chrono>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_chrono_minutes_from_chrono_INCLUDE_GUARD */
 

@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_indirect_unary_predicate_from_iterator_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/indirect_unary_predicate.html
+    // https://en.cppreference.com/w/cpp/iterator/indirect_unary_predicate
 
+    // https://en.cppreference.com/w/cpp/header/iterator
     #include <iterator>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_indirect_unary_predicate_from_iterator_INCLUDE_GUARD */
 

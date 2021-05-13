@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_set_new_handler_from_new_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/set_new_handler.html
+    // https://en.cppreference.com/w/cpp/new/set_new_handler
 
+    // https://en.cppreference.com/w/cpp/header/new
     #include <new>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_set_new_handler_from_new_INCLUDE_GUARD */
 

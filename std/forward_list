@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_forward_list_from_forward_list_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/forward_list.html
+    // https://en.cppreference.com/w/cpp/forward_list/forward_list
 
+    // https://en.cppreference.com/w/cpp/header/forward_list
     #include <forward_list>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_forward_list_from_forward_list_INCLUDE_GUARD */
 

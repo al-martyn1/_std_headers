@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_forward_as_tuple_from_tuple_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/forward_as_tuple.html
+    // https://en.cppreference.com/w/cpp/tuple/forward_as_tuple
 
+    // https://en.cppreference.com/w/cpp/header/tuple
     #include <tuple>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_forward_as_tuple_from_tuple_INCLUDE_GUARD */
 

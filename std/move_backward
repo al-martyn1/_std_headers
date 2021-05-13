@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_move_backward_from_algorithm_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/move_backward.html
+    // https://en.cppreference.com/w/cpp/algorithm/move_backward
 
+    // https://en.cppreference.com/w/cpp/header/algorithm
     #include <algorithm>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_move_backward_from_algorithm_INCLUDE_GUARD */
 

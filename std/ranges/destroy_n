@@ -4,23 +4,8 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_ranges_destroy_n_from_memory_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/destroy_n.html
-
     #include <memory>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_ranges_destroy_n_from_memory_INCLUDE_GUARD */
 

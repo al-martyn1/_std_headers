@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_va_start_from_cstdarg_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/va_start.html
+    // https://en.cppreference.com/w/cpp/cstdarg/va_start
 
+    // https://en.cppreference.com/w/cpp/header/cstdarg
     #include <cstdarg>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_va_start_from_cstdarg_INCLUDE_GUARD */
 

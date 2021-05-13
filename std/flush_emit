@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_flush_emit_from_ostream_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/flush_emit.html
+    // https://en.cppreference.com/w/cpp/ostream/flush_emit
 
+    // https://en.cppreference.com/w/cpp/header/ostream
     #include <ostream>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_flush_emit_from_ostream_INCLUDE_GUARD */
 

@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_align_val_t_from_new_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/align_val_t.html
+    // https://en.cppreference.com/w/cpp/new/align_val_t
 
+    // https://en.cppreference.com/w/cpp/header/new
     #include <new>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_align_val_t_from_new_INCLUDE_GUARD */
 

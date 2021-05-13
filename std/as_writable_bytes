@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_as_writable_bytes_from_span_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/as_writable_bytes.html
+    // https://en.cppreference.com/w/cpp/span/as_writable_bytes
 
+    // https://en.cppreference.com/w/cpp/header/span
     #include <span>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_as_writable_bytes_from_span_INCLUDE_GUARD */
 

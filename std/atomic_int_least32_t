@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_atomic_int_least32_t_from_atomic_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/atomic_int_least32_t.html
+    // https://en.cppreference.com/w/cpp/atomic/atomic_int_least32_t
 
+    // https://en.cppreference.com/w/cpp/header/atomic
     #include <atomic>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_atomic_int_least32_t_from_atomic_INCLUDE_GUARD */
 

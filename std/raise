@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_raise_from_csignal_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/raise.html
+    // https://en.cppreference.com/w/cpp/csignal/raise
 
+    // https://en.cppreference.com/w/cpp/header/csignal
     #include <csignal>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_raise_from_csignal_INCLUDE_GUARD */
 

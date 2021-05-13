@@ -1,26 +1,14 @@
 #pragma once
 
-#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_wstringstream_from_stream_INCLUDE_GUARD)
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_wstringstream_from_sstream_INCLUDE_GUARD)
 
-    #define UMBA_MAKE_HEADERS_GENERATED_std_wstringstream_from_stream_INCLUDE_GUARD
+    #define UMBA_MAKE_HEADERS_GENERATED_std_wstringstream_from_sstream_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/wstringstream.html
+    // https://en.cppreference.com/w/cpp/sstream/wstringstream
 
+    // https://en.cppreference.com/w/cpp/header/sstream
     #include <sstream>
 
-    #if defined(_MSC_VER)
 
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
-
-#endif /* UMBA_MAKE_HEADERS_GENERATED_std_wstringstream_from_stream_INCLUDE_GUARD */
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_wstringstream_from_sstream_INCLUDE_GUARD */
 

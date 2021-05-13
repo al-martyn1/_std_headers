@@ -1,26 +1,14 @@
 #pragma once
 
-#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_gslice_array_from_valaray_INCLUDE_GUARD)
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_gslice_array_from_valarray_INCLUDE_GUARD)
 
-    #define UMBA_MAKE_HEADERS_GENERATED_std_gslice_array_from_valaray_INCLUDE_GUARD
+    #define UMBA_MAKE_HEADERS_GENERATED_std_gslice_array_from_valarray_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/gslice_array.html
+    // https://en.cppreference.com/w/cpp/valarray/gslice_array
 
+    // https://en.cppreference.com/w/cpp/header/valarray
     #include <valarray>
 
-    #if defined(_MSC_VER)
 
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
-
-#endif /* UMBA_MAKE_HEADERS_GENERATED_std_gslice_array_from_valaray_INCLUDE_GUARD */
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_gslice_array_from_valarray_INCLUDE_GUARD */
 

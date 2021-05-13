@@ -1,26 +1,14 @@
 #pragma once
 
-#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_wcstoumax_from_cintypes_INCLUDE_GUARD)
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_wcstoumax_from_cinttypes_INCLUDE_GUARD)
 
-    #define UMBA_MAKE_HEADERS_GENERATED_std_wcstoumax_from_cintypes_INCLUDE_GUARD
+    #define UMBA_MAKE_HEADERS_GENERATED_std_wcstoumax_from_cinttypes_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/wcstoumax.html
+    // https://en.cppreference.com/w/cpp/cinttypes/wcstoumax
 
+    // https://en.cppreference.com/w/cpp/header/cinttypes
     #include <cinttypes>
 
-    #if defined(_MSC_VER)
 
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
-
-#endif /* UMBA_MAKE_HEADERS_GENERATED_std_wcstoumax_from_cintypes_INCLUDE_GUARD */
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_wcstoumax_from_cinttypes_INCLUDE_GUARD */
 

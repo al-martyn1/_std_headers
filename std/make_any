@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_make_any_from_any_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/make_any.html
+    // https://en.cppreference.com/w/cpp/any/make_any
 
+    // https://en.cppreference.com/w/cpp/header/any
     #include <any>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_make_any_from_any_INCLUDE_GUARD */
 

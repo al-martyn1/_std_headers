@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_is_lteq_from_compare_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/is_lteq.html
+    // https://en.cppreference.com/w/cpp/compare/is_lteq
 
+    // https://en.cppreference.com/w/cpp/header/compare
     #include <compare>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_is_lteq_from_compare_INCLUDE_GUARD */
 

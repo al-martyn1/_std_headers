@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_movable_from_concepts_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/movable.html
+    // https://en.cppreference.com/w/cpp/concepts/movable
 
+    // https://en.cppreference.com/w/cpp/header/concepts
     #include <concepts>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_movable_from_concepts_INCLUDE_GUARD */
 

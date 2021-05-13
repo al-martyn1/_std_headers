@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_nullopt_t_from_optional_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/nullopt_t.html
+    // https://en.cppreference.com/w/cpp/optional/nullopt_t
 
+    // https://en.cppreference.com/w/cpp/header/optional
     #include <optional>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_nullopt_t_from_optional_INCLUDE_GUARD */
 

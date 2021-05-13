@@ -4,23 +4,11 @@
 
     #define UMBA_MAKE_HEADERS_GENERATED_std_unordered_set_from_unordered_set_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/unordered_set.html
+    // https://en.cppreference.com/w/cpp/unordered_set/unordered_set
 
+    // https://en.cppreference.com/w/cpp/header/unordered_set
     #include <unordered_set>
 
-    #if defined(_MSC_VER)
-
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
 
 #endif /* UMBA_MAKE_HEADERS_GENERATED_std_unordered_set_from_unordered_set_INCLUDE_GUARD */
 

@@ -1,26 +1,14 @@
 #pragma once
 
-#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_system_error_from_system_eror_INCLUDE_GUARD)
+#if !defined(UMBA_MAKE_HEADERS_GENERATED_std_system_error_from_system_error_INCLUDE_GUARD)
 
-    #define UMBA_MAKE_HEADERS_GENERATED_std_system_error_from_system_eror_INCLUDE_GUARD
+    #define UMBA_MAKE_HEADERS_GENERATED_std_system_error_from_system_error_INCLUDE_GUARD
 
-    // https://doc.qt.io/qt-5/system_error.html
+    // https://en.cppreference.com/w/cpp/system_error/system_error
 
+    // https://en.cppreference.com/w/cpp/header/system_error
     #include <system_error>
 
-    #if defined(_MSC_VER)
 
-        #if defined(DEBUG) || defined(_DEBUG)
-
-            #pragma comment(lib, "d")
-
-        #else
-
-            #pragma comment(lib, "")
-
-        #endif
-
-    #endif /* _MSC_VER */
-
-#endif /* UMBA_MAKE_HEADERS_GENERATED_std_system_error_from_system_eror_INCLUDE_GUARD */
+#endif /* UMBA_MAKE_HEADERS_GENERATED_std_system_error_from_system_error_INCLUDE_GUARD */
 
