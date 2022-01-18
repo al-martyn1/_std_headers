@@ -1,5 +1,5 @@
 This repository allows You (if it is supported by your IDE) to simply include std header file by C++ std type name.
-Add "std_headers" to C++ include search path and then type:
+Add `_std_headers` to C++ include search path and then type:
 
   #include <std/
   
